@@ -24,14 +24,3 @@ hs_err_pid*
 
 # IDE
 .idea
-.gradle/
-.mvn/wrapper/maven-wrapper.properties
-build.gradle
-gradle/wrapper/gradle-wrapper.properties
-gradlew
-gradlew.bat
-mvnw
-mvnw.cmd
-pom.xml
-src/main/
-src/test/
